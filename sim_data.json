@@ -1,0 +1,53 @@
+{
+    "SimInfo": [
+        {
+            "Mobile Number": "3457963029",
+            "Name": "BABER SAEED",
+            "CNIC": "3340103732583",
+            "Address": "SHAFEEQ COLONY   F B AREA   NEAR MASJID USMANIA HOUSE NO 839 BLOCK 22 KARACHI Pakistan",
+            "Operator": "Telenor"
+        }
+    ],
+    "SimOwnerData": [
+        {
+            "Full Name": "BABER SAEED",
+            "Phone": "3457963029",
+            "CNIC": "33401*********3",
+            "Address": "SHAFEEQ COLONY   F B AREA   NEAR MASJID USMANIA HOUSE NO 839 BLOCK 22 KARACHI Pakistan"
+        },
+        {
+            "Full Name": "BABAR SAEED",
+            "Phone": "3039446531",
+            "CNIC": "33401********3",
+            "Address": "CHINIOT LAHORI GATE STREET BAGH WALI  CHINIOT"
+        },
+        {
+            "Full Name": "BABER SAEED",
+            "Phone": "3457963029",
+            "CNIC": "33401********3",
+            "Address": "SHAFEEQ COLONY   F B AREA   NEAR MASJID USMANIA HOUSE NO 839 BLOCK 22 KARACHI Pakistan"
+        },
+        {
+            "Full Name": "DATA NOT RECIEVED FROM NADRA",
+            "Phone": "3107508471",
+            "CNIC": "33401********3",
+            "Address": "Not Available"
+        }
+    ],
+    "SimDatabaseInfo": [
+        {
+            "Mobile Number": "3457963029",
+            "Name": "BABER SAEED",
+            "CNIC": "3340103732583",
+            "Address": "SHAFEEQ COLONY   F B AREA   NEAR MASJID USMANIA HOUSE NO 839 BLOCK 22 KARACHI Pakistan",
+            "Operator": "Telenor"
+        },
+        {
+            "Mobile Number": "3457963029",
+            "Name": "",
+            "CNIC": "3340103732583",
+            "Address": "N/A",
+            "Operator": "Telenor"
+        }
+    ]
+}
